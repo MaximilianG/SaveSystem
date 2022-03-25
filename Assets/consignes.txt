@@ -1,0 +1,27 @@
+public static class SaveManager{
+
+	public static void save(){
+		- créer
+		
+	}
+
+	public static void load(){
+
+		
+	}
+}
+
+class mySave
+{
+	int coins;
+
+	public mySave(int _coins)
+	{
+		coins = _coins;
+	}
+
+	public static mySave load()
+	{
+		
+	}
+}
